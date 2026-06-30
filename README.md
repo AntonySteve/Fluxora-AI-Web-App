@@ -211,22 +211,14 @@ Background media is hosted on **Cloudinary** rather than bundled with the app. T
 
 | Home / Hero Section | Responsive Mobile View |
 |---|---|
-| <img width="1920" height="1080" alt="Hero Section" src="https://github.com/user-attachments/assets/40386be8-0604-44f7-a4f0-eb11d02a7465" /> | <img width="627" height="1013" alt="Mobile View" src="https://github.com/user-attachments/assets/b3aa0d4d-9aa7-4981-b410-36b711b20f57" /> |
+| <img width="1895" height="965" alt="Screenshot 2026-06-30 225522" src="https://github.com/user-attachments/assets/247f4f32-2e9f-44dd-ad38-3640ec07218a" /> | <img width="601" height="894" alt="Screenshot 2026-06-30 225646" src="https://github.com/user-attachments/assets/56fa565a-ae63-4777-856f-9ebea8c54b79" /> |
 
 | AI Video Background | UI Animations |
 |---|---|
 | <img width="1440" height="900" alt="AI Video" src="https://github.com/user-attachments/assets/a2c0ee6c-0fbf-4de4-a8d5-66eb2d38ef13" /> | <img width="1892" height="966" alt="Animations" src="https://github.com/user-attachments/assets/7de18026-cc26-4b95-9eb2-9a0cf601197f" /> |
 
 
-## 🖼️ Screenshots
-
-| Home / Hero Section | Responsive Mobile View |
-|---|---|
-| `<img width="1920" height="1080" alt="Screenshot 2026-06-30 225522" src="https://github.com/user-attachments/assets/40386be8-0604-44f7-a4f0-eb11d02a7465" /> `| `<img width="627" height="1013" alt="image" src="https://github.com/user-attachments/assets/b3aa0d4d-9aa7-4981-b410-36b711b20f57" /> `|
-
-| AI Video Background | UI Animations |
-|---|---|
-| `<img width="1440" height="900" alt="Frame 1" src="https://github.com/user-attachments/assets/a2c0ee6c-0fbf-4de4-a8d5-66eb2d38ef13" /> `|` <img width="1892" height="966" alt="image" src="https://github.com/user-attachments/assets/7de18026-cc26-4b95-9eb2-9a0cf601197f" /> `|
+--- 
 
 ## 🔮 Future Improvements
 
@@ -242,7 +234,7 @@ Background media is hosted on **Cloudinary** rather than bundled with the app. T
 
 ## 👤 Author
 
-**Your Name**
+Antony Steve A
 Full-Stack Developer | AI-Augmented Web Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
@@ -251,11 +243,6 @@ Full-Stack Developer | AI-Augmented Web Engineering
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
 
 <div align="center">
 
