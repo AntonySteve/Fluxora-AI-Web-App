@@ -213,11 +213,13 @@ Background media is hosted on **Cloudinary** rather than bundled with the app. T
 
 | Home / Hero Section | Responsive Mobile View |
 |---|---|
-| `![Hero Section](docs/screenshots/hero.png)` | `![Mobile View](docs/screenshots/mobile.png)` |
+| `![Hero Section]<img width="1920" height="1080" alt="Screenshot 2026-06-30 225522" src="https://github.com/user-attachments/assets/40386be8-0604-44f7-a4f0-eb11d02a7465" />
+` | `![Mobile View]<img width="627" height="1013" alt="image" src="https://github.com/user-attachments/assets/b3aa0d4d-9aa7-4981-b410-36b711b20f57" />
+` |
 
 | AI Video Background | UI Animations |
 |---|---|
-| `![AI Video](docs/screenshots/ai-video.png)` | `![Animations](docs/screenshots/animations.png)` |
+| `![AI Video]<img width="1440" height="900" alt="Frame 1" src="https://github.com/user-attachments/assets/a2c0ee6c-0fbf-4de4-a8d5-66eb2d38ef13" />
 
 ---
 
