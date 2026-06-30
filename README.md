@@ -13,6 +13,8 @@
 [![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### 🔗 [**View Live Demo →**](https://fluxora-app-ai.netlify.app/)
+
 **Fluxora** is a visually polished, AI-assisted landing page experience that blends a hand-crafted React/Tailwind frontend with AI-generated visual assets — combining generative image creation, AI video synthesis, and cloud media delivery into a single, production-ready full-stack web application.
 
 </div>
