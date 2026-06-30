@@ -239,9 +239,9 @@ Background media is hosted on **Cloudinary** rather than bundled with the app. T
 Antony Steve A
 Full-Stack Developer | AI-Augmented Web Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-steve/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/AntonySteve)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?logo=googlechrome&logoColor=white)](https://antonysteve.lovable.app/)
 
 ---
 
